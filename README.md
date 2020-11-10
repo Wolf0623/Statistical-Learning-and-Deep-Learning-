@@ -1,2 +1,2 @@
-# Statistical-Learning-and-Deep-Learning-
+# Statistical-Learning-and-Deep-Learning
 109-1 NTU course
