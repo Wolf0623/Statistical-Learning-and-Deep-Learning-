@@ -1,4 +1,4 @@
-# Statistical-Learning-and-Deep-Learning
+# Statistical Learning and Deep Learning
 109-1 學年度，盧信銘教授 統計學習與深度學習(原統計學習初論)
 
 ## Homework Assignments
